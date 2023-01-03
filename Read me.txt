@@ -1,0 +1,24 @@
+# Crypto Sens 
+  
+ ## Project Introdcution 
+ * This is a Digital Currency Trade website that allows users to Trade with DigitalCurrency. 
+ * There is Two Userbase: 
+     1. Admin : Who can Add or Remove Currency 
+     2. User : Who can Buy or Sell crypto Currency.
+
+ * This website is Developed using PHP, HTML, Bootstrap, CSS, and SQL. 
+  
+ ## Software Requirements 
+ * XAMPP Server 
+ * Browser
+  
+ ## How to start with this project 
+ * Clone this repository (You need to clone this into htdocs folder of your XAMPP installation) 
+ * Start your XAMPP server 
+ * Start MYSQL server
+ * go to localhost/phpmyadmin   
+ 	* import Database name "crypto.sql"
+ * thats it now you are good to go!
+ * run index.php in browser using localhost.
+ * For run admin panel open admin folder and run login.php
+ * Done!
